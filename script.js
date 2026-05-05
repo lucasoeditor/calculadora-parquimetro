@@ -45,7 +45,7 @@ function calculo() {
     let valor = parseFloat(document.getElementById('valor').value);
 
     if (valor <1 || isNaN(valor)){
-        document.getElementById('resultado').textContent = ("Por favor, digite um numero válido, consulte nossos planos")
+        document.getElementById('resultado').textContent = ("Valor insuficiente")
         document.getElementById('troco').textContent = ('')
         return
     }
