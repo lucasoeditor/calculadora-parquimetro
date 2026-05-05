@@ -26,7 +26,7 @@ Uma aplicação simples em JavaScript que simula o funcionamento de um parquíme
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
+- JavaScript  
 
 ---
 
