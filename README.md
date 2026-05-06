@@ -4,7 +4,7 @@ Uma aplicação simples em JavaScript que simula o funcionamento de um parquíme
 
 ---
 
-## 🌐 Acesse o projeto <a id="acessar-projeto"</a>
+## 🌐 Acesse o projeto <a id="acessar-projeto"></a>
 
 👉 https://lucasoeditor.github.io/calculadora-parquimetro/
 
